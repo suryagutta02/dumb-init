@@ -1,5 +1,5 @@
 SHELL=bash
-CFLAGS=-std=gnu99 -static -s -Wall -Werror -O3
+CFLAGS=-std=gnu99 -s -Wall -Werror -O3
 
 TEST_PACKAGE_DEPS := build-essential python python-pip procps python-dev python-setuptools
 
